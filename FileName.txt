@@ -1,3 +1,7 @@
-git clone
+# git clone
 
 Git clone allows you to create a copy of the latest version of a repo.
+
+# git status
+
+Git status describes the status of the current repo.
