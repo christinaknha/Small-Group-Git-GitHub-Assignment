@@ -9,3 +9,7 @@ Git status describes the status of the current repo.
 # git log
 
 Git log shows the commit history with the most recent ones appearing first. 
+
+# git blame
+
+Git blame determines when and by who each line was modified.
