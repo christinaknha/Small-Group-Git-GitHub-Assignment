@@ -5,3 +5,7 @@ Git clone allows you to create a copy of the latest version of a repo.
 # git status
 
 Git status describes the status of the current repo.
+
+# git log
+
+Git log shows the commit history with the most recent ones appearing first. 
